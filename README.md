@@ -2,7 +2,7 @@
 ## Login Registration Backend Project
 - This is personal practice project.
 
-#Included with
+# Included with
  - Spring Boot
  - Spring Security
  - Java Mail
@@ -10,7 +10,7 @@
  - Spring Boot
  - Docker (Setting up mail server)
  
- #MailDev
+ # MailDev
  ```sh
  docker pull soulteary/maildev
  ```
