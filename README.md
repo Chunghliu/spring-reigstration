@@ -8,6 +8,7 @@
  - Java Mail
  - Email verification with expiry
  - Spring Boot
+ - Docker (Setting up mail server)
  
  #CURL
 ```sh
