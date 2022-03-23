@@ -1,7 +1,7 @@
-## spring-reigstration
-# Login Registration Backend Project
+# spring-reigstration
+## Login Registration Backend Project
 - This is personal practice project.
-- 
+
 #Included with
  - Spring Boot
  - Spring Security
