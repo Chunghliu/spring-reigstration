@@ -10,6 +10,12 @@
  - Spring Boot
  - Docker (Setting up mail server)
  
+ #MailDev
+ ```sh
+ docker pull soulteary/maildev
+ docker run -p 1080:1080 -p 1025:1025 soulteary/maildev
+ ```
+ 
  #CURL
 ```sh
 curl --location --request POST 'localhost:8080/api/v1/registration' \
